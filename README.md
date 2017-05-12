@@ -4,7 +4,7 @@
 
 This project is an attempt to classify images from CIFAR-10 dataset.
 The data is pre-processed using techniques such as normalization and one-hot encoding.
-Convolutional neural network (CNN) is used to train and test the model.
+Convolutional neural network (CNN) is used to learn the patterns of image to classify the images into different labels.
 For CNN, max-pooling and drop-out technique is used.
 
 ## Install
